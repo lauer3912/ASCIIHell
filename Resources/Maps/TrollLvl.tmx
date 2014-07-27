@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="17" height="10" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="Ground32" tilewidth="32" tileheight="32">
+  <image source="Ground32.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="2" name="trollascii" tilewidth="32" tileheight="32">
+  <image source="trollascii.png" width="700" height="616"/>
+ </tileset>
+ <layer name="Ground" width="17" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjYKANYETC5OjBpQ9dDSnmE2M3uh341JFqNrpebH4h1R3Ehgc54UatMMbnVmIxAEQsAEI=
+  </data>
+ </layer>
+ <layer name="BackGround" width="17" height="10">
+  <data encoding="base64" compression="zlib">
+   eJytw0dfyAEAgOF/KLQ+HtrSuCgNWro0FaW6REMqckmpKMpFU8u4EA0jXEKF9oWeD+H9vc+pIAhOc4YYYokjngQSSeIsyZwjhVTSSOc8GWRygSyyySGXi1wij3wKKKSIyxRTQilllFNBJVeoopqrXKOGWq5TRz0NNHKDmzTRTAut3KKN27TTQSd3uEsX9+jmPj308oA++hngIY8YZIjHPGGYEZ7yjFHGGGeCSaZ4zjQzzDLHPC94ySte84a3LPCO9yyyxDIrfOAjn/jMKl/4yjfW+M4PfrLOBpv84jd/2GKbHXbZY58D/vKPIMQc4SjHCCWM45zgJOFEEEkU0SHBf+kQANVbcg==
+  </data>
+ </layer>
+</map>
